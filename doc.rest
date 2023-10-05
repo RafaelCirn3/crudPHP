@@ -1,0 +1,8 @@
+
+POST http://localhost/php/amoeba/salvar-api.php HTTP/1.1
+Content-Type: application/json
+
+{
+    "acao":"cadastrar","marca":"Amogeba","tamanho":"M","cor":"Prata"
+}
+// GET http://localhost/php/amoeba/consumir-api.ph
