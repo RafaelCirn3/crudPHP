@@ -1,10 +1,10 @@
 # crudPHP
 
 
-# Documentação para CRUD de Amoebas em PHP
+<p> Documentação para CRUD de Amoebas em PHP</p>
 Este documento descreve um sistema CRUD (Create, Read, Update, Delete) em PHP para gerenciar registros de amoebas. Você será capaz de adicionar, editar e excluir informações sobre amoebas usando este sistema. O sistema utiliza uma base de dados MySQL para armazenar os registros.
 
-# Pré-requisitos
+<p>Pré-requisitos</p>
 Antes de começar, certifique-se de que você tenha os seguintes componentes instalados:
 
 Servidor Web: Você precisa de um servidor web como Apache ou Nginx instalado e em execução no seu sistema.
